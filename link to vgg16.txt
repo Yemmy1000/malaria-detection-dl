@@ -1,0 +1,1 @@
+C:\Users\Life Learners Studio\.cache\torch\checkpoints
